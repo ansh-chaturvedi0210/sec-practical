@@ -3,8 +3,8 @@
 
 The contributions are as follows:
 
-|**Feature**    |**Student name**|**Working**                                           |
-|Mark_attendance|XYZ             |Marking the attendance of the individual student      |
-|Leave approval |ABC             |approving and rejecting the leave requests of students|
+|**Feature**    |**Student name**|**Working**                                           |</br>
+|Mark_attendance|XYZ             |Marking the attendance of the individual student      |</br>
+|Leave approval |ABC             |approving and rejecting the leave requests of students|</br>
 
 
