@@ -7,4 +7,5 @@ The contributions are as follows:
 |Mark_attendance|XYZ             |Marking the attendance of the individual student      |</br>
 |Leave approval |ABC             |approving and rejecting the leave requests of students|</br>
 
-
+-[mark][leave] [sleep] -[mark] [leave] [sleep] </br>
+currently we are working on feature 1
