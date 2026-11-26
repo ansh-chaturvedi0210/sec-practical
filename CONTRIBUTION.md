@@ -1,0 +1,10 @@
+# Student Attendance manager
+*This is a contribution file representing the contributions of the 2 persons in a group working on a project*
+
+The contributions are as follows:
+
+|**Feature**    |**Student name**|**Working**                                           |
+|Mark_attendance|XYZ             |Marking the attendance of the individual student      |
+|Leave approval |ABC             |approving and rejecting the leave requests of students|
+
+
